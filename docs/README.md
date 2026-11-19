@@ -6,7 +6,7 @@
 
 * **Circle** (`circle.py`)
 * **Rectangle** (`rectangle.py`)
-* **Square** (`squre.py`)
+* **Square** (`square.py`)
 * **Triangle** (`triangle.py`)
 
 All functions use standard Python type hints, and mathematical constants are sourced from the built-in `math` module.
