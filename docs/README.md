@@ -168,6 +168,10 @@ print(res)  # 12.0
 
 ## Project Change Log
 
+* `d12c3ee` - test: add unit tests for circle, rectangle, square, and triangle
+* `464e298` - docs: fix typo in README
+* `4527558` - chore: update markdown style
+* `8971bf0` - docs: add project documentation and commit history
 * `4a49223` - fix: correct formula for rectangle perimeter and add triangle.py
 * `cba684d` - feat: add a new file for working with a rectangle
 * `d078c8d` - L-03: Docs added
