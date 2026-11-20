@@ -184,7 +184,7 @@ python -m unittest -v tests/test_geometric_lib.py
 
 ## Project Change Log
 
-* `b15701c` docs: update changelog in README
+* `b15701c` - docs: update changelog in README
 * `d12c3ee` - test: add unit tests for circle, rectangle, square, and triangle
 * `464e298` - docs: fix typo in README
 * `4527558` - chore: update markdown style
